@@ -2,3 +2,5 @@ master
 featurex is added 
 feature y is added
 feature Z is added 
+hotfix needed
+Hotfix is a must
